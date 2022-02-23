@@ -6,6 +6,8 @@ Ola, aqui esta meu currilo para analise, irei buscar deixalo constantemente atua
 Nome: Matheus Rissi<br>
 Idade: 21 anos<br>
 Cidade: Araraquara - <br>
-Contatos:<br>
-    .Email: mrissi2901@gmail.com<br>
-    .Telefone: +55 (19) 9 8243-3032<br>
+<ul>
+Contatos:
+    <li>Email: mrissi2901@gmail.com
+    <li>Telephone: +55 (19) 9 8243-3032
+</ul>
